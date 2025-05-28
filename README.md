@@ -2,6 +2,8 @@
 
 A modern React application built with TanStack Router that transforms images using AI services while maintaining complete privacy through Bring Your Own Keys (BYOK) functionality.
 
+![OG Image](./public/og-image.png)
+
 ![AI Transform Studio](https://img.shields.io/badge/AI%20Transform%20Studio-Privacy%20First-blue)
 ![React](https://img.shields.io/badge/React-18+-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
